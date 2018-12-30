@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0% 20% 0% 20%;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+
+ .search {
+    float: center;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+  }
+
+  tr:nth-child(even) {background-color: #f2f2f2;}
+
+  .selected-text {
+    float: center;
+    margin-left: 20%;
+    margin-top: 5%;
+    padding-top: 100px;
+    margin-bottom: 2%;
+  }
